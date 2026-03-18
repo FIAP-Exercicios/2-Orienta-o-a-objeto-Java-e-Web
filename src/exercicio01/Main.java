@@ -10,5 +10,6 @@ public class Main {
         monitor.regitrarNumeros(3);
 
         System.out.print(monitor.calcularMedia());
+        System.out.println(monitor.calcularMedia(1, 2));
     }
 }
